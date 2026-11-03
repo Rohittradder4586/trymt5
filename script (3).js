@@ -1,4 +1,4 @@
-/* IFX MARKETING – script.js */ 
+/* IFX MARKETING – script.js */   
 
 /* ============ CONFIGURATION (edit these) ============ */
 const CONFIG = {
